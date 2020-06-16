@@ -31,6 +31,7 @@ The program support 3 display modes:
     display mode 0: keyboard button '0' to active, show the whole mesh. 
     display mode 1: keyboard button '1' to active, show the wireframe of the mesh.  
     display mode 2: keyboard button '2' to active, show the mesh with coloring based on checkerboard algorithm. 
+    display mode 8: keyboard button '8' to active, show the contour tree graph for the minecraft.png
     left mouse button: translate the model
     right mouse button: rotate the model
     shift + left button: zoom in/out
