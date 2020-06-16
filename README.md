@@ -11,11 +11,11 @@ Instructions of "Learnply" Program:
    
 ====================Run the Program=============================
 
-2. To open the program, you need to install Microsoft Visual Studio 2017 (free for OSU student)
+2. To open the program, you need to install Microsoft Visual Studio.
 
 3. ./Opengl/ is for environment setting, you do not need to change anything in this folder.
 
-4. To run the program, after you install the VS 2017, please go the ./learnply/ folder and open the "learnply.sln"
+4. To run the program, after you install the VS, please go the ./learnply/ folder and open the "learnply.sln"
 
 5. After you open the "sln" file, on the  "Solution Explorer" bar, click the source file, and check any of the cpp file,
    
